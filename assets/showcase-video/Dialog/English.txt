@@ -1,0 +1,132 @@
+postcard_Glitchleste_Showcase=
+    As the story progresses, different{n}{# f94a4a}glitch levels{#} will appear.{n}
+    {n}
+    Due to the video needs, the cutscenes{n}will not be skipped.{n}
+    You can jump to different sections{n}to preview different {# f94a4a}glitch levels{#}.{n}
+    {n}
+    {# aaaaaa}(no GPU was harmed in the making of this mod){#}
+
+Glitchleste_Showcase_CH6_Campfire=
+    {+CH6_THEO_INTRO}
+    {break}
+
+    # CH6_THEO_SAY_EXPLAIN
+
+    [THEO left wtf]
+    Clearly this isn't a normal {+MOUNTAIN}.
+    What's really going on here?
+
+    [MADELINE right sad]
+    I should've told you sooner.
+
+    [MADELINE right distracted]
+    Back at the old ruins, a...{n}{+PART_OF_ME} escaped from a mirror.
+    A part I'm not very proud of.
+
+    [MADELINE right upset]
+    I swear I dreamt it.
+
+    [THEO left serious]
+    You think the {+MOUNTAIN} made her real?
+
+    [MADELINE right distracted]
+    Yeah. She's been haunting me the whole time.
+
+    [MADELINE right sad]
+    She lashed out at {+MROSHIRO}.
+
+    [MADELINE right distracted]
+    I think she was the reason the gondola stalled out.
+
+    [MADELINE right sad]
+    And she was there, in the temple.
+
+    # CH6_THEO_SAY_DEPRESSION
+
+    [THEO left normal]
+    This {+PART_OF_YOU} that's haunting you,{n}maybe she comes with the territory.
+
+    [MADELINE right upset]
+    So you think I'm stuck with her forever?
+
+    [THEO left normal]
+    Well, she's stuck with you, too.
+
+    [MADELINE right upset]
+    That's {*}not{/*} helpful.
+
+    # CH6_THEO_SAY_DEFENSE
+
+    [THEO left wtf]
+    So you want to destroy this {+PART_OF_YOU}?
+    Won't that hurt you, too?
+
+    [MADELINE right sad]
+    If I don't she's just going to keep bullying me.
+
+    [MADELINE right upset]
+    She says she's protecting me,{n}but that's obviously not true.
+
+    [THEO left normal]
+    Maybe she thinks she is.
+    She could be some kind of...{n}twisted defense mechanism.
+
+    [MADELINE right upset]
+    Honestly, who cares?
+    She has so much control over me.
+    I hate it.
+
+    [THEO left wtf]
+    Maybe you can learn to control her instead.
+
+    [MADELINE right distracted]
+    The feather helps a lot.
+
+    [MADELINE right sad]
+    Thanks for teaching me that.
+
+    [THEO left thinking]
+    Just one of my grandpa's many nuggets of wisdom.
+
+    # CH6_THEO_SAY_SELFIE
+
+    [MADELINE right normal]
+    You know what?
+    I want to remember this night...
+    Let's take a selfie!
+
+    [THEO left normal]
+    I thought you'd never ask.
+
+    {trigger 0 selfie sequence}
+
+    [MADELINE right normal]
+    Y'know despite everything,{n}I feel pretty good right now.
+
+    [THEO left wtf]
+    Wait a second...
+
+    [THEO left excited]
+    You're going to reach the summit tomorrow!
+
+    [MADELINE right upset]
+    Don't jinx it.
+
+    [MADELINE right distracted]
+    ...yeah, I'm excited.
+
+    [MADELINE right normal]
+    I'm ready to put this all behind me.
+
+    [THEO left normal]
+    I'll be cheering you on.
+    We should get some sleep.
+
+    [MADELINE right normal]
+    Okay, goodnight, {+THEO}.
+
+    [MADELINE right distracted]
+    Thanks for... being cool.
+
+    [THEO left thinking]
+    What can I say? It comes naturally.

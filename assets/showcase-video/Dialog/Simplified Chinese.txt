@@ -1,0 +1,132 @@
+postcard_Glitchleste_Showcase=
+    随着剧情的推进，视频上会出现不同的{# f94a4a}故障等级{#}。{n}
+    {n}
+    由于视频制作需要，剧情动画不会被跳过。{n}
+    你可以通过跳转小节功能来查看{n}不同{# f94a4a}故障等级{#}下的画面。{n}
+    {n}
+    {# aaaaaa}（没有显卡在 mod 及视频制作过程中受到伤害）{#}
+
+Glitchleste_Showcase_CH6_Campfire=
+    {+CH6_THEO_INTRO}
+    {break}
+
+    # CH6_THEO_SAY_EXPLAIN
+
+    [THEO left wtf]
+    很明显这不是一座正常的{+MOUNTAIN}。
+    这里到底发生了什么？
+
+    [MADELINE right sad]
+    我应该早点告诉你的。
+
+    [MADELINE right distracted]
+    回到古老遗迹，{+PART_OF_ME}从镜子中逃了出来。
+    我并不引以为傲的那一个我。
+
+    [MADELINE right upset]
+    我发誓我梦到过它。
+
+    [THEO left serious]
+    你认为这{+MOUNTAIN}让她变得真实？
+
+    [MADELINE right distracted]
+    是的。她一直萦绕在我身旁。
+
+    [MADELINE right sad]
+    她猛烈抨击了 {+MROSHIRO}。
+
+    [MADELINE right distracted]
+    我想可能就是她导致架空缆车失控的。
+
+    [MADELINE right sad]
+    她在那里，在庙里面。
+
+    # CH6_THEO_SAY_DEPRESSION
+
+    [THEO left normal]
+    这个一直在给你惹麻烦的{+PART_OF_YOU}，或许天性如此。
+
+    [MADELINE right upset]
+    所以你觉得我永远没法摆脱她了？
+
+    [THEO left normal]
+    这个么，她不是也没法摆脱你么。
+
+    [MADELINE right upset]
+    这话一点帮助也{*}没有{/*}。
+
+    # CH6_THEO_SAY_DEFENSE
+
+    [THEO left wtf]
+    所以你希望摧毁这个{+PART_OF_YOU}？
+    那样不会伤害到你自己吗？
+
+    [MADELINE right sad]
+    如果我不做点什么，她会一直欺负我。
+
+    [MADELINE right upset]
+    她说她会保护我，但显然那是假话。
+
+    [THEO left normal]
+    也许她觉得她在保护你。
+    也许她的保护机制有点...扭曲。
+
+    [MADELINE right upset]
+    老实说，谁在乎呢？
+    她总是想控制我。
+    我讨厌这样。
+
+    [THEO left wtf]
+    也许你能学着去控制她。
+
+    [MADELINE right distracted]
+    那片羽毛帮了大忙。
+
+    [MADELINE right sad]
+    谢谢你教我。
+
+    [THEO left thinking]
+    只不过是我爷爷智慧的结晶之一。
+
+    # CH6_THEO_SAY_SELFIE
+
+    [MADELINE right normal]
+    你知道吗？
+    我想要记住这个夜晚...
+    我们来张自拍吧！
+
+    [THEO left normal]
+    我还以为你不打算提出来了呢。
+
+    {trigger 0 selfie sequence}
+
+    [MADELINE right normal]
+    不管如何，我现在感觉好极了。
+
+    [THEO left wtf]
+    等等...
+
+    [THEO left excited]
+    你明天就能登顶！
+
+    [MADELINE right upset]
+    别咒自己。
+
+    [MADELINE right distracted]
+    ...没错，我很兴奋。
+
+    [MADELINE right normal]
+    我已经做好准备，把这一切都放下了。
+
+    [THEO left normal]
+    我会为你打气的。
+    我们应该睡了。
+
+    [MADELINE right normal]
+    好的，晚安，{+THEO}。
+
+    [MADELINE right distracted]
+    多谢你...没有介意。
+
+    [THEO left thinking]
+    我还能说什么？这就是天生的。
