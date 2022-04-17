@@ -38,6 +38,10 @@ public class GlitchlesteSettings : EverestModuleSettings {
         }
     }
 
+#if SHOWCASE
+    public bool ShowcaseVideoModifications { get; set; } = false;
+#endif
+
     public void CreateEnabledEntry(TextMenu textMenu, bool inGame) {
         TextMenu.Item item = new TextMenu.OnOff("Enabled", Enabled)
             .Change(value => {
@@ -50,5 +54,20 @@ public class GlitchlesteSettings : EverestModuleSettings {
             });
         textMenu.Add(item);
     }
+
+#if SHOWCASE
+    public void CreateShowcaseVideoModificationsEntry(TextMenu textMenu, bool inGame) {
+        TextMenu.Item item = new TextMenu.OnOff("Showcase Video Modifications", ShowcaseVideoModifications)
+            .Change(value => {
+                ShowcaseVideoModifications = value;
+                if (value) {
+                    ShowcaseVideo.Load();
+                } else {
+                    ShowcaseVideo.Unload();
+                }
+            });
+        textMenu.Add(item);
+    }
+#endif
 
 }
